@@ -2,7 +2,7 @@
 The instructions below show the steps to be taken to participate in testing the BigShortBets sandbox aplication. 
 
 ##  First of all... you must have this applications installed on your phone: 
-- Orbot (ill allow you to connect to the TOR network)
+- Orbot (will allow you to connect to the TOR network)
 https://play.google.com/store/apps/details?id=org.torproject.android&hl=pl&gl=US
 - Metamask (you need it to log into the application) https://play.google.com/store/apps/details?id=io.metamask&hl=pl&gl=US
 
