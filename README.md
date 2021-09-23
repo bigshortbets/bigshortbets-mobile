@@ -8,7 +8,8 @@ https://play.google.com/store/apps/details?id=org.torproject.android&hl=pl&gl=US
 
 ##  OK! Now you can download the BigShortBets app!
 
-[Link] 
+### LINK:
+https://github.com/bigshortbets/bigshortbets-mobile/raw/main/BigShortBetsv0.19.0.apk
 
 ## Once all applications have been downloaded and installed, it's time to configure the Orbot application
 
@@ -21,29 +22,32 @@ https://play.google.com/store/apps/details?id=org.torproject.android&hl=pl&gl=US
 4. Select the **Connect directly to Tor (Best)** setting.
 - ![image](https://user-images.githubusercontent.com/90868153/133893250-c8b247a5-44cb-4042-93e3-5351f839e5b2.png)
 5. Go back to the previous view and turn on **VPN Mode** - The onion icon should turn green with the words **Stop**
-- ![image](https://user-images.githubusercontent.com/90868153/133893321-9f01dc11-75ad-4f89-ad00-79baf8897710.png)
+- ![image](https://user-images.githubusercontent.com/90868153/134555223-7cd8bbfa-0611-4cbb-adb5-54492dd636da.png)
 
 ### Congratulations, BigShortBets can safely connect to the TOR network! 
 
 ## The next step is to launch the BigShortBets application and add permission to display over other applications. 
 1. When you first run the application and click the "Connect with metamask" button, you will be asked to add permission to display BigShortBets app over other applications.
-- ![image](https://user-images.githubusercontent.com/90868153/133944394-e27c27d3-2535-46f5-a277-82bb7e0747fd.png)
+- ![image](https://user-images.githubusercontent.com/90868153/134556405-41e8f944-9e4a-4640-b591-3af0cd640204.png)
 2. Add permission in your settings and back to app. 
-- ![image](https://user-images.githubusercontent.com/90868153/133944459-060da2d5-ad1e-44ac-9c5e-3fcb4629afb5.png)
+- ![image](https://user-images.githubusercontent.com/90868153/134555384-58657818-e0fe-40b1-8b13-d07dc92487fd.png)
 
 ## Everything is ready! Time to log in!
 1. Open the application and click the button "Connect with metamask"
-- ![image](https://user-images.githubusercontent.com/90868153/133944394-e27c27d3-2535-46f5-a277-82bb7e0747fd.png)
+- ![image](https://user-images.githubusercontent.com/90868153/134556509-19e01da9-056d-4d7f-995d-3afa3f13a964.png)
 2. After clicking, the MetaMask application should automatically launch, log in to it.
 - ![image](https://user-images.githubusercontent.com/90868153/133944595-61ca2d1e-1a3e-41a1-8b4f-ca9d0cf61483.png)
 3. And now you have to wait for the popup notification from MetaMask, about 10-30s depending on the phone. When it appears, click "Connect" and wait.
-- ![image](https://user-images.githubusercontent.com/90868153/133944686-098cae3f-ae99-4b26-883d-0a5b02f85776.png)
+- ![image](https://user-images.githubusercontent.com/90868153/134555496-c95244f9-46bd-4c63-84bf-17bf71af8d5c.png)
 4. After a few seconds, a second popup should appear that will allow you to sign the application and log in. Click "Sign".
-- ![image](https://user-images.githubusercontent.com/90868153/133944736-b1093645-db12-43a8-adf9-9fb8e14e4af9.png)
+- ![image](https://user-images.githubusercontent.com/90868153/134555787-6af5147f-324f-48a8-b9c1-b54c9b49f3fd.png)
 5. After signing the application, a message about logging in should appear. Click "OK" and go to the BigShortBets.
-- ![image](https://user-images.githubusercontent.com/90868153/133944747-33c92d81-6f9d-49c2-8567-daeb818c3863.png)
+- ![image](https://user-images.githubusercontent.com/90868153/134555893-c8eb9d85-e7b5-4516-9808-4a7a2672f4b6.png)
 6. Congratulations! If you have followed all the steps correctly, you can now see the main view of the BigShortBets application.
-- ![image](https://user-images.githubusercontent.com/90868153/133944828-7ce1cb66-9b9b-43ba-81bd-391d9d7b93d3.png) 
+- ![image](https://user-images.githubusercontent.com/90868153/134556262-1e64cf4b-1618-42b3-99e2-fbf827448a10.png)
+
+
+## IMPORTANT NOTICE: The app gathers information about the devices and errors that occurred during using the application. This information is crucial for developers team. All of the information will be deleted after testing period is over. If you do not consent to the information gathering by the application, do not participate in testing. Simple as that.
 
 ## If you have any questions or need support, please contact @Citral or our official group @BigShortBets via Telegram.
 - Official BigShortBets Telegram: https://t.me/BigShortBets 
