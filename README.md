@@ -1,5 +1,5 @@
 #  Hi there! 👋
-The instructions below show the steps to be taken to participate in testing the BigShortBets Android sandbox aplication. 
+The instructions below show the steps to be taken to participate in the BigShortBets Android aplication community testing. 
 
 ##  First of all... you must have this applications installed on your phone: 
 - Orbot (will allow you to connect to the TOR network)
@@ -47,14 +47,16 @@ https://github.com/bigshortbets/bigshortbets-mobile/raw/main/BigShortBetsv0.19.0
 - ![image](https://user-images.githubusercontent.com/90868153/134556262-1e64cf4b-1618-42b3-99e2-fbf827448a10.png)
 
 
-## IMPORTANT NOTICE: The app gathers information about the devices and errors that occurred during using the application. This information is crucial for developers team. All of the information will be deleted after testing period is over. If you do not consent to the information gathering by the application, do not participate in testing. Simple as that.
+## IMPORTANT NOTICE: The app gathers information about the device and errors that occurred during using the application. This information is crucial for developers team. All of the information will be deleted after testing period is over. If you do not consent to the information gathering by the application, do not participate in testing. Simple as that.
 
 ## If you have any questions or need support, please contact @Citral or our official group @BigShortBets via Telegram.
-- Official BigShortBets Telegram: https://t.me/BigShortBets 
+- Official PL BigShortBets Telegram: https://t.me/BigShortBets 
 - Official ENG community Telegram: https://t.me/BigShortBetsENG
+- Bug reporting Telegram: https://t.me/joinchat/mZKGf7jDgRVlODdk
 - Mobile app Project Manager: https://t.me/Citral 
 
 # Thank you for your support and have a nice testing! :)
 
 
 Citral
+BigShortBets App Dev
