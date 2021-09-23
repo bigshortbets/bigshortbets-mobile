@@ -59,4 +59,4 @@ https://github.com/bigshortbets/bigshortbets-mobile/raw/main/BigShortBetsv0.19.0
 
 
 Citral
-BigShortBets App Dev
+BigShortBets App Team
