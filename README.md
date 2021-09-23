@@ -58,5 +58,5 @@ https://github.com/bigshortbets/bigshortbets-mobile/raw/main/BigShortBetsv0.19.0
 # Thank you for your support and have a nice testing! :)
 
 
-Citral
+Citral \
 BigShortBets App Team
