@@ -1,5 +1,5 @@
 #  Hi there! 👋
-The instructions below show the steps to be taken to participate in testing the BigShortBets sandbox aplication. 
+The instructions below show the steps to be taken to participate in testing the BigShortBets Android sandbox aplication. 
 
 ##  First of all... you must have this applications installed on your phone: 
 - Orbot (will allow you to connect to the TOR network)
