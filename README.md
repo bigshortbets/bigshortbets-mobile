@@ -1,5 +1,5 @@
 #  Hi there! 👋
-The instructions below show the steps to be taken to participate in the BigShortBets Android aplication community testing. 
+The instructions below show the steps to be taken to participate in the BigShortBets Android App community testing. 
 
 ##  First of all... you must have this applications installed on your phone: 
 - Orbot (will allow you to connect to the TOR network)
