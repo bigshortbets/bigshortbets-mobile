@@ -9,7 +9,7 @@ https://play.google.com/store/apps/details?id=org.torproject.android&hl=pl&gl=US
 ##  OK! Now you can download the BigShortBets app!
 
 ### LINK:
-https://github.com/bigshortbets/bigshortbets-mobile/releases/download/v0.19.1/BigShortBetsv0.19.1.apk
+https://github.com/bigshortbets/bigshortbets-mobile/releases/tag/v0.28.0
 
 ## Once all applications have been downloaded and installed, it's time to configure the Orbot application
 
