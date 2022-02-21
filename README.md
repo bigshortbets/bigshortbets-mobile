@@ -38,7 +38,7 @@ https://github.com/bigshortbets/bigshortbets-mobile/releases/tag/v0.30.0
 8. Select the account to save the password and click "save password"
 - ![image](https://user-images.githubusercontent.com/90868153/140610320-4ecd3a0b-a438-4f16-a6f7-9d4dfdabdd7a.png)
 9. Congratulations! If you have followed all the steps correctly, you can now see the main view of the BigShortBets application.
-- ![image](https://user-images.githubusercontent.com/90868153/134556262-1e64cf4b-1618-42b3-99e2-fbf827448a10.png)
+- ![image](https://user-images.githubusercontent.com/90868153/155021051-732aa16c-adb9-4e11-8a2e-0434b7566fd6.png)
 
 ### What it should look like:
 https://user-images.githubusercontent.com/90868153/154990008-8298800c-1478-4f5d-8a63-f0f29a0584ac.mp4
