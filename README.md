@@ -40,10 +40,13 @@ https://github.com/bigshortbets/bigshortbets-mobile/releases/tag/v0.30.0
 9. Congratulations! If you have followed all the steps correctly, you can now see the main view of the BigShortBets application.
 - ![image](https://user-images.githubusercontent.com/90868153/134556262-1e64cf4b-1618-42b3-99e2-fbf827448a10.png)
 
+### What it should look like:
+https://user-images.githubusercontent.com/90868153/154990008-8298800c-1478-4f5d-8a63-f0f29a0584ac.mp4
 ## Each subsequent login to the application: 
 1. Click "Connect to MetaMask" to connect to the application. The application will ask your device for the keys on your device
 - ![image](https://user-images.githubusercontent.com/90868153/140610210-a2d422d0-a3b4-43aa-aba5-7eed8f06c66e.png)
-
+### What it should look like:
+https://user-images.githubusercontent.com/90868153/154989507-49c6b6f7-2b2f-4ba0-8cf8-7a5194899886.mp4
 ## MOST POPULAR PROBLEMS: 
 1. Metamask does not start after clicking "Connect with Metamask" 
 - Solution: 
