@@ -7,7 +7,7 @@ The instructions below show the steps to be taken to participate in the BigShort
 ##  OK! Now you can download the BigShortBets app!
 
 ### LINK:
-https://github.com/bigshortbets/bigshortbets-mobile/releases/tag/v0.30.0
+https://github.com/bigshortbets/bigshortbets-mobile/releases/tag/v0.31.0
 
 ## The BigShotBets application automatically connects to TORnet, so from version v0.30.0 you no longer need Orbot.
 
