@@ -1,7 +1,7 @@
 #  Hi there! 👋
 The instructions below show the steps to be taken to participate in the BigShortBets Android App community testing. 
 
-## Remember to log in to the application, you must have at least one outgoing transaction on your wallet.
+## Remember to log in to the application, you must have at least one outgoing transaction on your wallet!
 
 
 ##  First of all... you must have this application installed on your phone: 
