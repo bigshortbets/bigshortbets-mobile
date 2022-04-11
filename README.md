@@ -1,6 +1,9 @@
 #  Hi there! 👋
 The instructions below show the steps to be taken to participate in the BigShortBets Android App community testing. 
 
+## Remember to log in to the application, you must have at least one outgoing transaction on your wallet
+
+
 ##  First of all... you must have this application installed on your phone: 
 - Metamask (you need it to log into the application) https://play.google.com/store/apps/details?id=io.metamask&hl=pl&gl=US
 
@@ -47,11 +50,7 @@ https://user-images.githubusercontent.com/90868153/154990008-8298800c-1478-4f5d-
 - ![image](https://user-images.githubusercontent.com/90868153/140610210-a2d422d0-a3b4-43aa-aba5-7eed8f06c66e.png)
 ### What it should look like:
 https://user-images.githubusercontent.com/90868153/154989507-49c6b6f7-2b2f-4ba0-8cf8-7a5194899886.mp4
-## MOST POPULAR PROBLEMS: 
-1. Metamask does not start after clicking "Connect with Metamask" 
-- Solution: 
-1. 
-
+ 
 
 ## IMPORTANT NOTICE: The app gathers information about the device and errors that occurred during using the application. This information is crucial for developers team. All of the information will be deleted after testing period is over. If you do not consent to the information gathering by the application, do not participate in testing. Simple as that.
 
